@@ -107,5 +107,3 @@ while True:
     #updating the window
     pygame.display.flip()  #draws whatever happens on the loop
     clock.tick(60)       #controls the FPS(basically how often a computer run cycles in a minute) of the game{in this case its 60}
-
-
