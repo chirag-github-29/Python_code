@@ -1,0 +1,201 @@
+movieId,title,overview,director,genre,ratings
+1,The Shawshank Redemption,"Two imprisoned men bond over several years, finding solace and eventual redemption through acts of common decency.",Frank Darabont,Drama,9.3
+2,The Godfather,The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.,Francis Ford Coppola,Crime,9.2
+3,The Dark Knight,"When the menace known as the Joker emerges, Batman must confront one of the greatest psychological and physical tests of his ability to fight injustice.",Christopher Nolan,Action,9
+4,Inception,A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.,Christopher Nolan,Sci-Fi,8.8
+5,Pulp Fiction,"The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",Quentin Tarantino,Crime,8.9
+6,Schindler's List,"In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",Steven Spielberg,Biography,8.9
+7,Forrest Gump,"The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate, and other historical events unfold through the perspective of an Alabama man with an IQ of 75.",Robert Zemeckis,Drama,8.8
+8,The Lord of the Rings: The Fellowship of the Ring,A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.,Peter Jackson,Fantasy,8.8
+9,The Lord of the Rings: The Two Towers,"While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",Peter Jackson,Fantasy,8.7
+10,The Lord of the Rings: The Return of the King,Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.,Peter Jackson,Fantasy,8.9
+11,Fight Club,"An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.",David Fincher,Drama,8.8
+12,Goodfellas,"The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.",Martin Scorsese,Crime,8.7
+13,The Matrix,"When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",Lana Wachowski,Sci-Fi,8.7
+14,Interstellar,A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.,Christopher Nolan,Sci-Fi,8.6
+15,The Silence of the Lambs,"A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",Jonathan Demme,Thriller,8.6
+16,Se7en,"Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",David Fincher,Thriller,8.6
+17,The Departed,An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.,Martin Scorsese,Crime,8.5
+18,Gladiator,A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.,Ridley Scott,Action,8.5
+19,Saving Private Ryan,"Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",Steven Spielberg,War,8.6
+20,The Green Mile,"The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.",Frank Darabont,Drama,8.6
+21,The Prestige,"After a tragic accident, two stage magicians engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.",Christopher Nolan,Mystery,8.5
+22,Memento,A man with short-term memory loss attempts to track down his wife's murderer.,Christopher Nolan,Thriller,8.4
+23,The Usual Suspects,"A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup.",Bryan Singer,Crime,8.5
+24,The Sixth Sense,A boy who communicates with spirits seeks the help of a disheartened child psychologist.,M. Night Shyamalan,Thriller,8.1
+25,The Social Network,"As Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, he is sued by the twins who claimed he stole their idea, and by a co-founder who was later squeezed out of the business.",David Fincher,Biography,7.7
+26,Whiplash,A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.,Damien Chazelle,Drama,8.5
+27,Birdman,"A washed-up superhero actor attempts to revive his fading career by writing, directing, and starring in a Broadway production.",Alejandro Innaritu,Comedy,7.7
+28,No Country for Old Men,Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande.,Coen Brothers,Crime,8.1
+29,The Big Lebowski,"Jeff 'The Dude' Lebowski, mistaken for a millionaire of the same name, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.",Coen Brothers,Comedy,8.1
+30,Fargo,Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the quite pregnant Marge Gunderson.,Coen Brothers,Crime,8.1
+31,The Grand Budapest Hotel,"The adventures of Gustave H, a legendary concierge at a famous European hotel between the wars, and Zero Moustafa, the lobby boy who becomes his most trusted friend.",Wes Anderson,Comedy,8.1
+32,The Shape of Water,"At a top-secret research facility in the 1960s, a lonely janitor forms a unique relationship with an amphibious creature that is being held in captivity.",Guillermo del Toro,Fantasy,7.3
+33,Get Out,"A young African-American visits his white girlfriend's parents for the weekend, where his simmering uneasiness about their reception of him eventually reaches a boiling point.",Jordan Peele,Horror,7.7
+34,Parasite,Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.,Bong Joon-ho,Thriller,8.6
+35,A Star Is Born,A musician helps a young singer find fame as age and alcoholism send his own career into a downward spiral.,Bradley Cooper,Drama,7.6
+36,The Wolf of Wall Street,"Based on the true story of Jordan Belfort, from his rise to a wealthy stockbroker living the high life to his fall involving crime, corruption, and the federal government.",Martin Scorsese,Biography,8.2
+37,Django Unchained,"With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",Quentin Tarantino,Western,8.4
+38,Inglourious Basterds,"In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.",Quentin Tarantino,War,8.3
+39,The Hateful Eight,"In the dead of a Wyoming winter, a bounty hunter and his prisoner find shelter in a cabin currently inhabited by a collection of nefarious characters.",Quentin Tarantino,Western,7.8
+40,Once Upon a Time in Hollywood,A faded television actor and his stunt double strive to achieve fame and success in the final years of Hollywood's Golden Age in 1969 Los Angeles.,Quentin Tarantino,Comedy,7.6
+41,The Truman Show,An insurance salesman discovers his entire life is actually a reality TV show.,Peter Weir,Drama,8.1
+42,Eternal Sunshine of the Spotless Mind,"When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories.",Michel Gondry,Romance,8.3
+43,Her,"In a near future, a lonely writer develops an unlikely relationship with an operating system designed to meet his every need.",Spike Jonze,Sci-Fi,8
+44,Blade Runner 2049,"A young blade runner's discovery of a long-buried secret leads him to track down former blade runner Rick Deckard, who's been missing for thirty years.",Denis Villeneuve,Sci-Fi,8
+45,Mad Max: Fury Road,"In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search of her homeland with the aid of a group of female prisoners, a psychotic worshiper, and a drifter named Max.",George Miller,Action,8.1
+46,The Revenant,A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear and left for dead by members of his own hunting team.,Alejandro Innaritu,Adventure,8
+47,La La Land,"While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future.",Damien Chazelle,Musical,8
+48,Arrival,A linguist works with the military to communicate with alien lifeforms after twelve mysterious spacecraft appear around the world.,Denis Villeneuve,Sci-Fi,7.9
+49,Ex Machina,A young programmer is selected to participate in a ground-breaking experiment in synthetic intelligence by evaluating the human qualities of a highly advanced humanoid A.I.,Alex Garland,Sci-Fi,7.7
+50,Gravity,Two astronauts work together to survive after an accident leaves them stranded in space.,Alfonso Cuarón,Sci-Fi,7.7
+51,The Martian,"An astronaut becomes stranded on Mars after his team assume him dead, and must rely on his ingenuity to find a way to signal to Earth that he is alive.",Ridley Scott,Sci-Fi,8
+52,Edge of Tomorrow,"A soldier fighting aliens gets caught in a time loop of his last day in battle, though he becomes better skilled along the way.",Doug Liman,Sci-Fi,7.9
+53,Snowpiercer,"In a future where a failed climate-change experiment has killed all life except for the survivors who boarded the Snowpiercer, a train that travels around the globe, a new class system emerges.",Bong Joon-ho,Sci-Fi,7.1
+54,District 9,An extraterrestrial race forced to live in slum-like conditions on Earth suddenly finds a kindred spirit in a government agent exposed to their biotechnology.,Neill Blomkamp,Sci-Fi,7.9
+55,Children of Men,"In a dystopian future where humanity has lost the ability to reproduce, a former activist agrees to help transport a miraculously pregnant woman to a sanctuary at sea.",Alfonso Cuarón,Sci-Fi,7.9
+56,The Lobster,"In a dystopian near future, single people are arrested and transferred to a creepy hotel, where they are obliged to find a romantic partner in 45 days or be transformed into animals.",Yorgos Lanthimos,Comedy,7.1
+57,The Killing of a Sacred Deer,A surgeon's life starts to unravel when he introduces his family to a teenager he has taken under his wing.,Yorgos Lanthimos,Thriller,7
+58,The Favourite,"In early 18th century England, a frail Queen Anne occupies the throne and her close friend, Lady Sarah, governs the country in her stead. When a new servant, Abigail, arrives, her charm endears her to Sarah.",Yorgos Lanthimos,Comedy,7.5
+59,The Lighthouse,Two lighthouse keepers try to maintain their sanity while living on a remote and mysterious New England island in the 1890s.,Robert Eggers,Horror,7.5
+60,Hereditary,A grieving family is haunted by tragic and disturbing occurrences.,Ari Aster,Horror,7.3
+61,Midsommar,A couple travels to Sweden to visit a rural hometown's fabled mid-summer festival. What begins as an idyllic retreat quickly devolves into an increasingly violent and bizarre competition at the hands of a pagan cult.,Ari Aster,Horror,7.1
+62,The Witch,"A family in 1630s New England is torn apart by the forces of witchcraft, black magic, and possession.",Robert Eggers,Horror,7
+63,The Babadook,"A single mother, plagued by the violent death of her husband, battles with her son's fear of a monster lurking in the house, but soon discovers a sinister presence all around her.",Jennifer Kent,Horror,6.8
+64,It Follows,A young woman is followed by an unknown supernatural force after a sexual encounter.,David Robert Mitchell,Horror,6.8
+65,A Quiet Place,"In a post-apocalyptic world, a family is forced to live in silence while hiding from monsters with ultra-sensitive hearing.",John Krasinski,Horror,7.5
+66,The Conjuring,Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse.,James Wan,Horror,7.5
+67,Insidious,A family looks to prevent evil spirits from trapping their comatose child in a realm called The Further.,James Wan,Horror,6.8
+68,Sinister,A true-crime writer discovers a box of home movies that suggest the murder he is currently researching is the work of a serial killer whose legacy dates back to the 1960s.,Scott Derrickson,Horror,6.8
+69,The Ring,A journalist must investigate a mysterious videotape which seems to cause the death of anyone one week to the day after they view it.,Gore Verbinski,Horror,7.1
+70,The Exorcist,"When a 12-year-old girl is possessed by a mysterious entity, her mother seeks the help of two priests to save her.",William Friedkin,Horror,8
+71,The Shining,"A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.",Stanley Kubrick,Horror,8.4
+72,Psycho,"A Phoenix secretary embezzles $40,000 from her employer's client, goes on the run, and checks into a remote motel run by a young man under the domination of his mother.",Alfred Hitchcock,Horror,8.5
+73,Halloween,"Fifteen years after murdering his sister on Halloween night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield, Illinois, to kill again.",John Carpenter,Horror,7.7
+74,The Texas Chain Saw Massacre,Two siblings and three of their friends en route to visit their grandfather's grave in Texas end up falling victim to a family of cannibalistic psychopaths.,Tobe Hooper,Horror,7.4
+75,Suspiria,A newcomer to a prestigious ballet academy comes to realize that the school is a front for something sinister amidst a series of grisly murders.,Dario Argento,Horror,7.3
+76,Alien,The crew of a commercial spacecraft encounters a deadly lifeform after investigating an unknown transmission.,Ridley Scott,Sci-Fi,8.4
+77,Aliens,"Decades after surviving the Nostromo incident, Ellen Ripley is sent to help terraformers on a planet under attack from the creatures she encountered previously.",James Cameron,Sci-Fi,8.3
+78,Predator,A team of commandos on a mission in a Central American jungle find themselves hunted by an extraterrestrial warrior.,John McTiernan,Action,7.8
+79,The Terminator,"A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine, sent from the same year, which has been programmed to execute a young woman whose unborn son is the key to humanity's future salvation.",James Cameron,Sci-Fi,8
+80,Terminator 2: Judgment Day,"A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her ten-year-old son John from an even more advanced and powerful cyborg.",James Cameron,Sci-Fi,8.5
+81,Jurassic Park,"During a preview tour, a theme park suffers a major power breakdown that allows its cloned dinosaur exhibits to run amok.",Steven Spielberg,Adventure,8.1
+82,Jaws,"When a killer shark unleashes chaos on a beach community, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.",Steven Spielberg,Thriller,8
+83,E.T. the Extra-Terrestrial,A troubled child summons the courage to help a friendly alien escape Earth and return to his home world.,Steven Spielberg,Adventure,7.8
+84,Back to the Future,"Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the eccentric scientist Doc Brown.",Robert Zemeckis,Adventure,8.5
+85,Raiders of the Lost Ark,"In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before Adolf Hitler's Nazis can obtain its awesome powers.",Steven Spielberg,Adventure,8.4
+86,Indiana Jones and the Last Crusade,"In 1938, after his father goes missing while pursuing the Holy Grail, Indiana Jones finds himself up against the Nazis again to stop them from obtaining its powers.",Steven Spielberg,Adventure,8.2
+87,Die Hard,A New York City police officer tries to save his estranged wife and several others taken hostage by German terrorists during a Christmas party at the Nakatomi Plaza in Los Angeles.,John McTiernan,Action,8.2
+88,John Wick,An ex-hitman comes out of retirement to track down the gangsters who killed his dog and stole his car.,Chad Stahelski,Action,7.4
+89,Mission: Impossible – Fallout,"Ethan Hunt and his IMF team, along with some familiar allies, race against time after a mission goes wrong.",Christopher McQuarrie,Action,7.7
+90,The Bourne Identity,"A man is picked up by a fishing boat, bullet-riddled and suffering from amnesia, before racing to elude assassins and attempting to regain his memory.",Doug Liman,Action,7.9
+91,Kill Bill: Volume 1,"After awakening from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her.",Quentin Tarantino,Action,8.1
+92,Crouching Tiger: Hidden Tiger,A young Chinese warrior steals a sword from a famed swordsman and then escapes into a world of romantic adventure with a mysterious man in the frontier of the nation.,Ang Lee,Action,7.8
+93,The Raid: Redemption,A S.W.A.T. team becomes trapped in a tenement run by a ruthless mobster and his army of killers and thugs.,Gareth Evans,Action,7.6
+94,Black Panther,"T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country's past.",Ryan Coogler,Action,7.3
+95,Avengers: Endgame,"After the devastating events of Avengers: Infinity War, the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",Anthony Russo,Action,8.4
+96,Spider-Man: Into the Spider-Verse,Teen Miles Morales becomes the Spider-Man of his universe and must join with five spider-powered individuals from other dimensions to stop a threat to all reality.,Bob Persichetti,Animation,8.4
+97,The Incredibles,"A family of undercover superheroes, while trying to live the quiet suburban life, are forced into action to save the world.",Brad Bird,Animation,8
+98,Toy Story,A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.,John Lasseter,Animation,8.3
+99,Toy Story 3,"The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned and to return home.",Lee Unkrich,Animation,8.3
+100,Inside Out,"After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust, and Sadness - conflict on how best to navigate a new city, house, and school.",Pete Docter,Animation,8.1
+101,Up,"Seventy-eight-year-old Carl Fredricksen travels to Paradise Falls in his house equipped with balloons, inadvertently taking a young stowaway.",Pete Docter,Animation,8.2
+102,Coco,"Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",Lee Unkrich,Animation,8.4
+103,Finding Nemo,"After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.",Andrew Stanton,Animation,8.1
+104,The Lion King,"Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",Roger Allers,Animation,8.5
+105,Spirited Away,"During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.",Hayao Miyazaki,Animation,8.6
+106,My Neighbor Totoro,"When two girls move to the country to be near their ailing mother, they have adventures with the wondrous forest spirits who live nearby.",Hayao Miyazaki,Animation,8.2
+107,Howl's Moving Castle,"When an unconfident young woman is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions in his legged, walking castle.",Hayao Miyazaki,Animation,8.2
+108,Frozen,"When the newly crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.",Chris Buck,Animation,7.4
+109,Zootopia,"In a city of anthropomorphic animals, a rookie bunny cop and a cynical con artist fox must work together to uncover a conspiracy.",Byron Howard,Animation,8
+110,Moana,"In Ancient Polynesia, when a terrible curse incurred by the Demigod Maui reaches Moana's island, she answers the Ocean's call to seek out the Demigod to set things right.",Ron Clements,Animation,7.6
+111,Wall-E,"In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.",Andrew Stanton,Animation,8.4
+112,Ratatouille,A rat who can cook makes an unusual alliance with a young kitchen worker at a famous Paris restaurant.,Brad Bird,Animation,8
+113,Shrek,"After his swamp is filled with magical creatures, an ogre agrees to rescue a princess for a villainous lord in order to get his land back.",Andrew Adamson,Animation,7.8
+114,Kung Fu Panda,"The Dragon Warrior has to clash against the savage Tai Lung as China's fate hangs in the balance. However, the Dragon Warrior mantle is supposedly mistaken to be bestowed upon an obese panda who is a novice in martial arts.",Mark Osborne,Animation,7.6
+115,Coraline,"An adventurous 11-year-old girl finds another world that is a strangely idealized version of her frustrating home, but it has sinister secrets.",Henry Selick,Animation,7.7
+116,The Nightmare Before Christmas,"Jack Skellington, king of Halloween Town, discovers Christmas Town, but his attempts to bring Christmas to his home causes confusion.",Henry Selick,Animation,8
+117,The Iron Giant,A young boy befriends a giant robot from outer space that a paranoid government agent wants to destroy.,Brad Bird,Animation,8
+118,Persepolis,A poignant coming-of-age story of a precocious and outspoken young Iranian girl that begins during the Islamic Revolution.,Marjane Satrapi,Animation,8
+119,Waltz with Bashir,An Israeli film director interviews fellow veterans of the 1982 invasion of Lebanon to reconstruct his own memories of his term of service in that conflict.,Ari Folman,Animation,8
+120,Anomalisa,A man crippled by the mundanity of his life experiences something out of the ordinary.,Charlie Kaufman,Animation,7.3
+121,The Tale of the Princess Kaguya,"Found inside a shining stalk of bamboo by an old bamboo cutter and his wife, a tiny girl grows rapidly into an exquisite young lady. The mysterious young princess enthralls all who encounter her, but ultimately she must confront her fate, the punishment for her crime.",Isao Takahata,Animation,8
+122,Your Name,"Two teenagers share a profound, magical connection upon discovering they are swapping bodies. Things manage to become even more complicated when the boy and girl decide to meet in person.",Makoto Shinkai,Animation,8.4
+123,A Silent Voice,"A young man is ostracized by his classmates after he bullies a deaf girl to the point where she moves away. Years later, he sets off on a path for redemption.",Naoko Yamada,Animation,8.2
+124,Perfect Blue,"A pop singer gives up her career to become an actress, but she slowly goes insane when she starts being stalked by an obsessed fan and what seems to be a ghost of her past.",Satoshi Kon,Animation,7.9
+125,Paprika,"When a machine that allows therapists to enter their patients' dreams is stolen, all hell breaks loose. Only a young female therapist can stop it: Paprika.",Satoshi Kon,Animation,7.7
+126,The Wind Rises,"A look at the life of Jiro Horikoshi, the man who designed Japanese fighter planes during World War II.",Hayao Miyazaki,Animation,7.8
+127,Princess Mononoke,"On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony. In this quest he also meets San, the Mononoke Hime.",Hayao Miyazaki,Animation,8.4
+128,Castle in the Sky,A young boy and a girl with a magic crystal must race against pirates and foreign agents in a search for a legendary floating castle.,Hayao Miyazaki,Animation,8
+129,Nausicaä of the Valley of the Wind,Warrior and pacifist Princess Nausicaä desperately struggles to prevent two warring nations from destroying themselves and their dying planet.,Hayao Miyazaki,Animation,8.1
+130,Grave of the Fireflies,A young boy and his little sister struggle to survive in Japan during World War II.,Isao Takahata,Animation,8.5
+131,The Red Turtle,"A man is shipwrecked on a deserted island and encounters a red turtle, which changes his life.",Michaël Dudok de Wit,Animation,7.6
+132,Isle of Dogs,"Set in Japan, Isle of Dogs follows a boy's odyssey in search of his lost dog.",Wes Anderson,Animation,7.8
+133,Fantastic Mr. Fox,An urbane fox cannot resist returning to his farm raiding ways and then must help his community survive the farmers' retaliation.,Wes Anderson,Animation,7.8
+134,Kubo and the Two Strings,A young boy named Kubo must locate a magical suit of armor worn by his late father in order to defeat a vengeful spirit from the past.,Travis Knight,Animation,7.8
+135,The Breadwinner,"In 2001, Afghanistan is under the control of the Taliban. When her father is captured, a determined young girl disguises herself as a boy in order to provide for her family.",Nora Twomey,Animation,7.7
+136,Song of the Sea,"Ben, a young Irish boy, and his little sister Saoirse, a girl who can turn into a seal, go on an adventure to free the fairies and save the spirit world.",Tomm Moore,Animation,8.1
+137,The Secret of Kells,"A young boy in a remote medieval outpost under siege from barbarian raids is beckoned to adventure when a celebrated master illuminator arrives with an ancient book, brimming with secret wisdom and powers.",Tomm Moore,Animation,7.6
+138,Loving Vincent,A young man comes to the last hometown of painter Vincent van Gogh to deliver the troubled artist's final letter and ends up investigating his final days there.,Dorota Kobiela,Animation,7.8
+139,Mary and Max,"A tale of friendship between two unlikely pen pals: Mary, a lonely, eight-year-old girl living in the suburbs of Melbourne, and Max, a forty-four-year old, severely obese man living in New York.",Adam Elliot,Animation,8.1
+140,Waltz with Bashir,An Israeli film director interviews fellow veterans of the 1982 invasion of Lebanon to reconstruct his own memories of his term of service in that conflict.,Ari Folman,Animation,8
+141,The Triplets of Belleville,"When her grandson is kidnapped during the Tour de France, Madame Souza and her beloved pooch Bruno team up with the Belleville Sisters--an aged song-and-dance team from the days of Fred Astaire--to rescue him.",Sylvain Chomet,Animation,7.8
+142,The Illusionist,"A French illusionist finds himself out of work and travels to Scotland, where he meets a young woman. Their ensuing adventure changes both their lives forever.",Sylvain Chomet,Animation,7.6
+143,Chico & Rita,A romantic tale of a young Cuban piano player and a beautiful singer who pursue their dreams and love in the 1940s and 1950s.,Tono Errando,Animation,7.3
+144,Ernest & Celestine,"The story of an unlikely friendship between a bear, Ernest, and a young mouse named Celestine.",Stéphane Aubier,Animation,7.9
+145,The Little Prince,"A little girl lives in a very grown-up world with her mother, who tries to prepare her for it. Her neighbor, the Aviator, introduces the girl to an extraordinary world where anything is possible, the world of the Little Prince.",Mark Osborne,Animation,7.7
+146,The Lego Movie,"An ordinary Lego construction worker, thought to be the prophesied 'Special', is recruited to join a quest to stop an evil tyrant from gluing the Lego universe into eternal stasis.",Phil Lord,Animation,7.7
+147,Spider-Man: Homecoming,"Peter Parker balances his life as an ordinary high school student in Queens with his superhero alter-ego Spider-Man, and finds himself on the trail of a new menace prowling the skies of New York City.",Jon Watts,Action,7.4
+148,Guardians of the Galaxy,A group of intergalactic criminals must pull together to stop a fanatical warrior with plans to purge the universe.,James Gunn,Action,8
+149,Doctor Strange,"While on a journey of physical and spiritual healing, a brilliant neurosurgeon is drawn into the world of the mystic arts.",Scott Derrickson,Action,7.5
+150,Thor: Ragnarok,"Imprisoned on the planet Sakaar, Thor must race against time to return to Asgard and stop Ragnarök, the destruction of his world, at the hands of the powerful and ruthless villain Hela.",Taika Waititi,Action,7.9
+151,Wonder Woman,"When a pilot crashes and tells of conflict in the outside world, Diana, an Amazonian warrior in training, leaves home to fight a war, discovering her full powers and true destiny.",Patty Jenkins,Action,7.4
+152,Aquaman,"Arthur Curry, the human-born heir to the underwater kingdom of Atlantis, goes on a quest to prevent a war between the worlds of ocean and land.",James Wan,Action,6.9
+153,Shazam!,A newly fostered young boy in search of his mother instead finds unexpected super powers and soon gains a powerful enemy.,David F. Sandberg,Action,7
+154,Joker,"In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: the Joker.",Todd Phillips,Crime,8.4
+155,Logan,"In a future where mutants are nearly extinct, an elderly and weary Logan leads a quiet life. But when Laura, a mutant child pursued by scientists, comes to him for help, he must get her to safety.",James Mangold,Action,8.1
+156,Deadpool,"A wisecracking mercenary gets experimented on and becomes immortal but ugly, and sets out to track down the man who ruined his looks.",Tim Miller,Action,8
+157,Deadpool 2,"Foul-mouthed mutant mercenary Wade Wilson (a.k.a. Deadpool) assembles a team of fellow mutant rogues to protect a young boy with supernatural abilities from the brutal, time-traveling cyborg Cable.",David Leitch,Action,7.7
+158,X-Men: Days of Future Past,The X-Men send Wolverine to the past in a desperate effort to change history and prevent an event that results in doom for both humans and mutants.,Bryan Singer,Action,8
+159,X-Men: First Class,"In the 1960s, superpowered humans Charles Xavier and Erik Lensherr work together to find others like them, but Erik's vengeful pursuit of an ambitious mutant who ruined his life causes a schism to divide them.",Matthew Vaughn,Action,7.7
+160,The Wolverine,"Wolverine comes to Japan to meet an old acquaintance whose life he saved years ago, and gets embroiled in a conspiracy involving yakuza and mutants.",James Mangold,Action,6.7
+161,Blade,"A half-vampire, half-mortal man becomes a protector of the mortal race, while slaying evil vampires.",Stephen Norrington,Action,7.1
+162,Blade II,"Blade forms an uneasy alliance with the vampire council in order to combat the Reapers, who are feeding on both vampires and humans.",Guillermo del Toro,Action,6.7
+163,Hellboy,"A demon, raised from infancy after being conjured by and rescued from the Nazis, grows up to become a defender against the forces of darkness.",Guillermo del Toro,Action,6.8
+164,Hellboy II: The Golden Army,"The mythical world starts a rebellion against humanity in order to rule the Earth, so Hellboy and his team must save the world from the rebellious creatures.",Guillermo del Toro,Action,7
+165,The Crow,A man brutally murdered comes back to life as an undead avenger of his and his fiancée's murder.,Alex Proyas,Action,7.6
+166,Sin City,"A film that explores the dark and miserable town, Basin City, and tells the story of three different people, all caught up in violent corruption.",Frank Miller,Action,8
+167,"""300""",King Leonidas of Sparta and a force of 300 men fight the Persians at Thermopylae in 480 B.C.,Zack Snyder,Action,7.6
+168,Watchmen,"In 1985 where former superheroes exist, the murder of a colleague sends active vigilante Rorschach to uncover a conspiracy.",Zack Snyder,Action,7.6
+169,V for Vendetta,"In a future British tyranny, a shadowy freedom fighter, known only by the alias of 'V', plots to overthrow it with the help of a young woman.",James McTeigue,Action,8.2
+170,Scott Pilgrim vs. the World,Scott Pilgrim must defeat his new girlfriend's seven evil exes in order to win her heart.,Edgar Wright,Action,7.5
+171,Kick-Ass,"Dave Lizewski is an unnoticed high school student and comic book fan who one day decides to become a superhero, even though he has no powers, training or meaningful reason to do so.",Matthew Vaughn,Action,7.6
+172,Kingsman: The Secret Service,"A spy organization recruits an unrefined, but promising street kid into the agency's ultra-competitive training program, just as a global threat emerges from a twisted tech genius.",Matthew Vaughn,Action,7.7
+173,Kingsman: The Golden Circle,"When their headquarters are destroyed and the world is held hostage, the Kingsman's journey leads them to the discovery of an allied spy organization in the US. These two elite secret organizations must band together to defeat a common enemy.",Matthew Vaughn,Action,6.7
+174,Atomic Blonde,An undercover MI6 agent is sent to Berlin during the Cold War to investigate the murder of a fellow agent and recover a missing list of double agents.,David Leitch,Action,6.7
+175,Baby Driver,"After being coerced into working for a crime boss, a young getaway driver finds himself taking part in a heist doomed to fail.",Edgar Wright,Action,7.6
+176,Drive,A mysterious Hollywood stuntman and mechanic moonlights as a getaway driver and finds himself in trouble when he helps out his neighbor.,Nicolas Winding Refn,Action,7.8
+177,The Nice Guys,"In 1970s Los Angeles, a mismatched pair of private eyes investigate a missing girl and the mysterious death of a porn star.",Shane Black,Action,7.4
+178,Kiss Kiss Bang Bang,"A murder mystery brings together a private eye, a struggling actress, and a thief masquerading as an actor.",Shane Black,Action,7.5
+179,The Man from U.N.C.L.E.,"In the early 1960s, CIA agent Napoleon Solo and KGB operative Illya Kuryakin participate in a joint mission against a mysterious criminal organization, which is working to proliferate nuclear weapons.",Guy Ritchie,Action,7.3
+180,Tinker Tailor Soldier Spy,"In the bleak days of the Cold War, espionage veteran George Smiley is forced from semi-retirement to uncover a Soviet agent within MI6's echelons.",Tomas Alfredson,Thriller,7
+181,A Most Wanted Man,"A Chechen Muslim illegally immigrates to Hamburg, where he gets caught in the international war on terror.",Anton Corbijn,Thriller,6.8
+182,The Girl with the Dragon Tattoo,"Journalist Mikael Blomkvist is aided in his search for a woman who has been missing for forty years by Lisbeth Salander, a young computer hacker.",David Fincher,Thriller,7.8
+183,The Girl Who Played with Fire,"As computer hacker Lisbeth and journalist Mikael investigate a sex-trafficking ring, Lisbeth is accused of three murders, causing her to go on the run while Mikael works to clear her name.",Daniel Alfredson,Thriller,7.2
+184,The Girl Who Kicked the Hornet's Nest,"Lisbeth Salander lies in critical condition, a bullet wound to her head, in the intensive care unit of a Swedish city hospital. She's fighting for her life in more ways than one: if and when she recovers, she'll be taken back to Stockholm to stand trial for three murders.",Daniel Alfredson,Thriller,7.2
+185,The Hunt for Red October,"In November 1984, the Soviet Union's best submarine captain in their newest sub violates orders and heads for the U.S. The American CIA and military must quickly determine: Is he trying to defect, or to start a war?",John McTiernan,Thriller,7.6
+186,Patriot Games,"When CIA Analyst Jack Ryan interferes with an IRA assassination, a renegade faction targets him and his family for revenge.",Phillip Noyce,Thriller,6.9
+187,Clear and Present Danger,CIA Analyst Jack Ryan is drawn into an illegal war fought by the US government against a Colombian drug cartel.,Phillip Noyce,Thriller,6.9
+188,The Sum of All Fears,CIA analyst Jack Ryan must stop the plans of a terrorist faction that threatens to induce a catastrophic conflict between the United States and Russia's President by detonating a nuclear weapon at a football game in Baltimore.,Phil Alden Robinson,Thriller,6.4
+189,Jack Ryan: Shadow Recruit,"Jack Ryan, as a young covert CIA analyst, uncovers a Russian plot to crash the U.S. economy with a terrorist attack.",Kenneth Branagh,Thriller,6.2
+190,The Bourne Supremacy,"When Jason Bourne is framed for a CIA operation gone awry, he is forced to resume his former life as a trained assassin to survive.",Paul Greengrass,Action,7.7
+191,The Bourne Ultimatum,Jason Bourne dodges a ruthless CIA official and his agents from a new assassination program while searching for the origins of his life as a trained killer.,Paul Greengrass,Action,8
+192,The Bourne Legacy,"An expansion of the universe from Robert Ludlum's novels, centered on a new hero whose stakes have been triggered by the events of the previous three films.",Tony Gilroy,Action,6.6
+193,Jason Bourne,The CIA's most dangerous former operative is drawn out of hiding to uncover more explosive truths about his past.,Paul Greengrass,Action,6.6
+194,Salt,A CIA agent goes on the run after a defector accuses her of being a Russian spy.,Phillip Noyce,Action,6.4
+195,Lucy,"A woman, accidentally caught in a dark deal, turns the tables on her captors and transforms into a merciless warrior evolved beyond human logic.",Luc Besson,Action,6.4
+196,Hanna,"A sixteen-year-old girl who was raised by her father to be the perfect assassin is dispatched on a mission across Europe, tracked by a ruthless intelligence agent and her operatives.",Joe Wright,Action,6.8
+197,Atomic Blonde,An undercover MI6 agent is sent to Berlin during the Cold War to investigate the murder of a fellow agent and recover a missing list of double agents.,David Leitch,Action,6.7
+198,Red Sparrow,"Ballerina Dominika Egorova is recruited to 'Sparrow School,' a Russian intelligence service where she is forced to use her body as a weapon. Her first mission, targeting a C.I.A. agent, threatens to unravel the security of both nations.",Francis Lawrence,Thriller,6.6
+199,The Accountant,"As a math savant uncooks the books for a new client, the Treasury Department closes in on his activities and the body count starts to rise.",Gavin O'Connor,Action,7.3
+200,John Wick: Chapter 2,"After returning to the criminal underworld to repay a debt, John Wick discovers that a large bounty has been put on his life.",Chad Stahelski,Action,7.5
